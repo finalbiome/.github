@@ -1,6 +1,6 @@
 # finalbiome
 
-![FinalBiome Banner](images/finalbiome-banner.png "FinalBiome Banner")
+![FinalBiome Banner](../images/finalbiome-banner.png "FinalBiome Banner")
 
 ## FinalBiome is a decentralized game deployment platform
 
